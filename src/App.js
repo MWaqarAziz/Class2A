@@ -11,6 +11,7 @@ function App() {
         <h1>One day,I will prove myself.</h1>
         <h2>God helps me please</h2>
         <h2>God helps me please</h2>
+        <h1>One day,I will prove myself.</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
