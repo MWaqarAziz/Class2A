@@ -13,6 +13,7 @@ function App() {
         <h1>Aligit </h1>
         <h1>Long way to go</h1>
         <h2>Shukar hai</h2>
+        <h1>Long way to go</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
